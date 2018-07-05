@@ -1,0 +1,13 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'EasyFoundation_Example' do
+  pod 'EasyFoundation', :path => '../'
+
+  target 'EasyFoundation_Tests' do
+    inherit! :search_paths
+
+    pod 'Quick'
+    pod 'Nimble'
+  end
+end
