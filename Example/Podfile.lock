@@ -24,7 +24,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  EasyFoundation: fd6ddf1648cf1a7283f0b97e484bcf2bf56eb4c3
+  EasyFoundation: 9006ea2d1ba6d849249abc5bd471024606b8c972
   EasySequence: 1db9bb7b915052d3589d79c30ece1f0e160af550
   EasyTuple: a6a068ab3aa47e899a0c9f9ee23ddb394542ea9e
   Nimble: 3835ba9f459daa6b347f8a8e110aaae8ca1920a8
